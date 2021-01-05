@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+/* ini style home */
+#welcome {
+    background-color: rgb(231, 247, 247);
+    text-align: center;
+    height: 360px;
+}
+
+footer {
+    height: 200px;
+    background-color: black;
+}
+
+/* style CSS Page Daftar Cafe */
+#btnedit {
+    background-color: yellow;
+}
+
+#bodytable {
+    height: 10px;
+}
+
+#tabel1 {
+    background-color: lightgrey;
+}
+
+#cardkafe {
+    text-align: auto;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: lightgrey;
+}
+
+#cardtambah {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: lightgrey;
+}
+
+#spkk {
+    /* font-size: 20px; */
+}
+
+#wp {
+    margin-left: 3px;
+    font-size: 20px;
+}
+
+#d {
+    background-color: rgb(90, 169, 189);
+    padding-right: 40px;
+    padding-left: 40px;
+    text-align: center;
+    color: white;
+}
+
+#c {
+    background-color: rgb(182, 110, 110);
+    padding-right: 43px;
+    padding-left: 43px;
+    color: white;
+}
+
+#tbldaftar {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* footer */
+
+#bawah {
+    /* color: white; */
+    /* height: 70px; */
+    text-align: center;
+    /* padding-top: 15px; */
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+footer {
+    background-color: rgb(39, 32, 24);
+}
